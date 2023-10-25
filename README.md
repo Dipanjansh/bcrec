@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <h1> Dipanjan Sharma</h1>
-<iframe width="420" height="315"
-src="https://www.facebook.com/dipanjan.sharma.5/videos/1318282688795896">
-</iframe>
+<img src="https://scontent.fixb1-1.fna.fbcdn.net/v/t39.30808-6/385502870_1453940675177819_2497703500530398026_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=g6N-g5y07usAX-vgwJu&_nc_ht=scontent.fixb1-1.fna&oh=00_AfD52xJKP5igYr2Rhy4soL5KsAMIqkdrxr439gCNXTxbdg&oe=653F4BDC" alt="Photo">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
